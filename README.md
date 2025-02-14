@@ -1,7 +1,7 @@
-# Rust for Blockchain Developmen
+# Rust for Blockchain Development
 
 ## 🚀 Introduction  
-This repository documents my journey in learning [Rust](w) for blockchain development, specifically for blvkvhsin. Rust's memory safety, performance, and concurrency make it an excellent choice for building secure and efficient blockchain applications.  
+This repository documents my journey in learning [Rust](w) for blockchain development, specifically for blockchain. Rust's memory safety, performance, and concurrency make it an excellent choice for building secure and efficient blockchain applications.  
 
 ## 📌 Goals  
 - Master Rust fundamentals (ownership, borrowing, lifetimes)  
