@@ -54,19 +54,20 @@
 //     println!("Remainder: {} % {} = {}", a, b, remainder);
 // }
 
-fn sum(a:i32, b:i32) -> i32 {
-    a + b
-}
+// fn sum(a:i32, b:i32) -> i32 {
+//     a + b
+// }
 
-fn display_result(result:i32){
-    println!("{:?}", result);
-}
+// fn display_result(result:i32){
+//     println!("{:?}", result);
+// }
 
-fn main (){
-let result = sum(3 , 4);
-display_result(result)
-}
-
-
+// fn main (){
+// let result = sum(3 , 4);
+// display_result(result)
+// }
 
 
+
+
+// if else expressions
