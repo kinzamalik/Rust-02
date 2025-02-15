@@ -35,6 +35,6 @@ fn main(){
     }else if n < 5{
         println!("<5");
     }else{
-        println!("=5");
+        println!("=5"); 
     }
 }
