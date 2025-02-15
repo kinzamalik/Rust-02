@@ -69,14 +69,3 @@
 
 
 
-
-// if else expressions
-
-fn main(){
-    let age = 15;
-    if age >=18 {
-        println!("you can attend summit")
-    }else{
-        println!("you cannot attend")
-    }
-}
