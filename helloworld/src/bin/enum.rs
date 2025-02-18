@@ -17,20 +17,24 @@
 
 
 
-enum Color{
-    Red,
-    Blue,
-    Yellow
-}
+// enum Color{
+//     Red,
+//     Blue,
+//     Yellow
+// }
 
-fn print_color(my_color:Color){
-    match my_color{
-        Color::Red => println!("Red"),
-        Color::Blue => println!("Blue"),
-        Color::Yellow => println!("Yellow"),
-    }
-}
+// fn print_color(my_color:Color){
+//     match my_color{
+//         Color::Red => println!("Red"),
+//         Color::Blue => println!("Blue"),
+//         Color::Yellow => println!("Yellow"),
+//     }
+// }
 
-fn main(){
-    print_color(Color::Blue);
-}
+// fn main(){
+//     print_color(Color::Blue);
+// }
+
+
+
+
